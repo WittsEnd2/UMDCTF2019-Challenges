@@ -1,0 +1,10 @@
+body {
+    background-image: url("img/mdflag2.png");
+    height: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+table {
+    background: white;
+}

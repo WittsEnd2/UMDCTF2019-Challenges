@@ -1,0 +1,36 @@
+<b>Scoring</b>
+TotalPoints	2338    2140
+PointsPerGame	73.1	66.9
+ScoringMargin	6.2	--
+<b>Shooting</b>
+FG:Made-Attempted	811-1696	781-1909
+FG:Percentage	.478	.409
+FG:PerGame	25.3	24.4
+3PT:Made-Attempted	229-617	244-723
+3PT:Percentage	.371	.337
+3PT:PerGame	7.2	7.6
+FT:Made-Attempted	487-645	334-452
+FT:Percentage	.755	.739
+FT:PerGame	15.2	10.4
+<b>Rebounding</b>
+Total	1149	994
+PerGame	35.9	31.1
+Margin	4.8	--
+<b>Assists</b>
+Total	452	408
+PerGame	14.1	12.8
+Turnovers
+Total	438	351
+PerGame	13.7	11.0
+Margin	-2.7	--
+Assist/TurnoverRatio	1.0	1.2
+PointsOffTurnovers	13.0	13.5
+<b>Steals</b>
+Total	138	214
+PerGame	4.3	6.7
+Blocks
+Total	137	113
+PerGame	4.3	3.5
+Attendance
+Total	264164	133326
+PerGame	18-14,676	10-13,333
